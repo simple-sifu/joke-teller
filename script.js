@@ -4,7 +4,7 @@ const VoiceRSS={speech:function(e){this._validate(e),this._request(e)},_validate
 
 function test (){
     VoiceRSS.speech({
-        key: '<API key>',
+        key: '5cbe920126d647abb6f3d937a05429a6',
         src: 'Hello, world!',
         hl: 'en-us',
         v: 'Linda',
